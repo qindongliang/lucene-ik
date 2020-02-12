@@ -11,7 +11,7 @@
     <local.repository.port>8083</local.repository.port>
 
     <!--lucene的版本-->
-    <lucene-solr.version>7.4.0</lucene-solr.version>
+    <lucene-solr.version>8.4.1</lucene-solr.version>
     <!--jedis版本 -->
     <jedis.version>2.6.3</jedis.version>
     <!--mysql的jdbc驱动版本-->
