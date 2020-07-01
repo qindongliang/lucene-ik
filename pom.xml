@@ -15,7 +15,7 @@
     <!--jedis版本 -->
     <jedis.version>2.6.3</jedis.version>
     <!--mysql的jdbc驱动版本-->
-    <jdbc-mysql.version>5.1.9</jdbc-mysql.version>
+    <jdbc-mysql.version>8.0.16</jdbc-mysql.version>
 
   </properties>
 
